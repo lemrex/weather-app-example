@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "test": "jest",
-    "build": "webpack"
+    "build": "jest"
   },
   "keywords": [],
   "author": "",
@@ -23,7 +23,6 @@
   },
   "devDependencies": {
     "jest": "^29.3.1",
-    "mocha": "^10.2.0",    
-    "webpack": "5.88.2"
+    "mocha": "^10.2.0"
   }
 }
